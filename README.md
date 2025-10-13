@@ -113,5 +113,5 @@ Special thanks to mentors and cohort peers for their guidance and contributions.
 
 ## 🔗 References
 1. [Lagos State Rooftop Solar Potential Mapping Dataset](https://energydata.info/dataset/lagos-state-rooftop-solar-potential-mapping)  
-2. [Global Solar Atlas](https://globalsolaratlas.info/map)  
-3. [AI Saturdays Lagos – Machine Learning for Social Good](https://aisaturdayslagos.com)
+2. Global Solar Atlas – globalsolaratlas.info/map  
+3. AI Saturdays Lagos – Machine Learning
