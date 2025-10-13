@@ -83,16 +83,17 @@ Each model is compared using cross-validation and evaluated with:
 ---
 
 ## 🧭 Repository Structure
-
-- **doc/**
-  - Project_Proposal_Predicting_Solar_Efficiency.pdf
-- **data/**
-  - lagos_rooftop_solar_potential.csv
-- **notebooks/**
-  - data_preparation.ipynb
-- **src/**
-  - model_training.py (future addition)
-- **README.md**
+```
+📁 doc/
+ └── Project_Proposal_Predicting_Solar_Efficiency.pdf
+📁 data/
+ └── lagos_rooftop_solar_potential.csv
+📁 notebooks/
+ └── data_preparation.ipynb
+📁 src/
+ └── model_training.py  (future addition)
+📄 README.md
+```
 
 
 ---
