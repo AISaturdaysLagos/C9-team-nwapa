@@ -93,8 +93,6 @@ Each model is compared using cross-validation and evaluated with:
 └── model_training.py (future addition)
 📄 README.md
 
-yaml
-Copy code
 
 ---
 
