@@ -107,7 +107,7 @@ Each model is compared using cross-validation and evaluated with:
 ---
 
 ## 👥 Contributors
-- **Team Lead:** Chitom Ernesto Uzokwe  
+- **Team Lead:** Chitom Uzokwe  
 - **Team Members:** Precious Ita, Joy Eromosele, Toluwani Abiodun, Precious Odutola  
 - **Program:** AI Saturdays Lagos – Machine Learning Cohort
 
