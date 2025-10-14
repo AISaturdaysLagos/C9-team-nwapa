@@ -48,7 +48,7 @@ Two datasets are provided in the data/ folder:
 
 lagos_rooftop_solar_potential.csv – The original raw dataset from EnergyData.info.
 
-lagos_prepared_with_features.csv – The cleaned and feature-engineered dataset used for modeling.
+lagos_prepared_with_features.zip – The cleaned and feature-engineered dataset used for modeling.
 
 ---
 
@@ -91,10 +91,11 @@ Each model is compared using cross-validation and evaluated with:
 
 ## 🧭 Repository Structure
 ```
+📁 data/
+ ├── lagos_rooftop_solar_potential.csv          # Original dataset
+ └── lagos_prepared_with_features.zip           # Preprocessed dataset (compressed)
 📁 doc/
  └── Project_Proposal_Predicting_Solar_Efficiency.pdf
-📁 data/
- └── lagos_rooftop_solar_potential.csv
 📁 notebooks/
  └── data_preparation.ipynb
 📁 src/
