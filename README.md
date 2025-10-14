@@ -2,7 +2,7 @@
 
 ## 🌍 Project Overview
 This project applies machine learning to estimate how efficiently buildings in Lagos can generate solar energy from their rooftops.  
-Using the **Lagos Rooftop Solar Potential dataset**, we analyze the physical characteristics of more than 200,000 buildings—such as roof surface area, tilt, height, and potential installable capacity—to predict their **annual solar energy output**.
+Using the **Lagos Rooftop Solar Potential dataset**, we analyze the physical characteristics of more than 200,000 buildings such as roof surface area, tilt, height, and potential installable capacity to predict their **annual solar energy output**.
 
 The goal is to provide a **data-driven tool** that helps homeowners, builders, and urban planners identify which buildings are best suited for solar installation and how much power they can realistically produce.  
 This supports Nigeria’s broader sustainability efforts by promoting clean, renewable energy adoption.
