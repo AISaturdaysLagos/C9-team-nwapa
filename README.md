@@ -42,7 +42,13 @@ It includes attributes such as:
 - Energy Potential per Year  
 - Building Height  
 - Roof Tilt  
-- Building Type  
+- Building Type
+
+Two datasets are provided in the data/ folder:
+
+lagos_rooftop_solar_potential.csv – The original raw dataset from EnergyData.info.
+
+lagos_prepared_with_features.csv – The cleaned and feature-engineered dataset used for modeling.
 
 ---
 
