@@ -32,7 +32,8 @@ This supports Nigeria’s broader sustainability efforts by promoting clean, ren
 
 ## 📊 Dataset
 **Source:** [Lagos State Rooftop Solar Potential Mapping Dataset](https://energydata.info/dataset/lagos-state-rooftop-solar-potential-mapping)  
-This open dataset provides detailed information on rooftop geometry and solar potential for buildings across Lagos State, Nigeria.  
+This open dataset provides detailed information on rooftop geometry and solar potential for buildings across Lagos State, Nigeria. 
+Both the original and preprocessed datasets are included for reproducibility and transparency.
 It includes attributes such as:
 - Surface Area  
 - Potential Installable Area  
