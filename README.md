@@ -87,23 +87,22 @@ Used to label buildings as *Low*, *Medium*, or *High* efficiency based on annual
 ---
 
 ## 🧭 Repository Structure
-📁 data/
-├── lagos_rooftop_solar_potential.csv
-└── lagos_prepared_with_features.zip
-📁 doc/
-├── Project_Proposal_Predicting_Solar_Efficiency.pdf
-├── Energy_Efficiency_Project_Report.pdf
-└── Energy_Efficiency_Project_Slides.pdf
-📁 notebooks/
-└── data_preparation.ipynb
-📁 src/
-└── model_training.py (Random Forest classification)
-📄 README.md
+data:
+  - lagos_rooftop_solar_potential.csv
+  - lagos_prepared_with_features.zip
 
-yaml
-Copy code
+doc:
+  - Project_Proposal_Predicting_Solar_Efficiency.pdf
+  - Energy_Efficiency_Project_Report.pdf
+  - Energy_Efficiency_Project_Slides.pdf
 
----
+notebooks:
+  - data_preparation.ipynb
+
+src:
+  - model_training.py  # Random Forest classification
+
+README.md
 
 ## 👥 Contributors
 - **Team Lead:** Chitom Uzokwe  
