@@ -128,7 +128,7 @@ Access the deployed web app without any setup:
 - **Team Lead:** [Chitom Uzokwe](https://www.linkedin.com/in/chitom-uzokwe-2a2973274/) ([GitHub: ChitomUzokwe](https://github.com/Ernesto16))
 - **Team Members:** 
   - [Precious Ita](https://www.linkedin.com/in/precious-ita-b10a102b8/)  
-  - [Joy Eromosele](https://www.linkedin.com/in/joy-eromosele/)  
+  - [Joy Eromosele](http://linkedin.com/in/joy-eromosele-52739823b)  
   - [Toluwani Abiodun](https://www.linkedin.com/in/toluwani-abiodun/)  
   - [Precious Odutola](https://www.linkedin.com/in/precious-odutola-951a43311/)  
 - **Program:** AI Saturdays Lagos – Machine Learning Cohort
