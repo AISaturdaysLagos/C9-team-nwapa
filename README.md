@@ -78,6 +78,12 @@ Used to label buildings as *Low*, *Medium*, or *High* efficiency based on annual
 
 ---
 
+## 📌 How to Use the Code
+### Casual Users
+Access the deployed web app without any setup:  
+[🌐 Lagos Building Solar Energy Efficiency Predictor](https://huggingface.co/spaces/Precyors/Lagos-Building-Solar-Energy-Efficiency-Predictor)  
+
+
 ## 🧠 Insights & Expected Outcomes
 - A robust predictive model for **solar energy efficiency** of Lagos buildings.  
 - Insights into which physical rooftop features most influence energy generation.  
@@ -105,8 +111,12 @@ Used to label buildings as *Low*, *Medium*, or *High* efficiency based on annual
 📄 README.md
 
 ## 👥 Contributors
-- **Team Lead:** Chitom Uzokwe  
-- **Team Members:** Precious Ita, Joy Eromosele, Toluwani Abiodun, Precious Odutola  
+- **Team Lead:** [Chitom Uzokwe](https://www.linkedin.com/in/chitom-uzokwe)  
+- **Team Members:** 
+  - [Precious Ita](https://www.linkedin.com/in/precious-ita)  
+  - [Joy Eromosele](https://www.linkedin.com/in/joy-eromosele)  
+  - [Toluwani Abiodun](https://www.linkedin.com/in/toluwani-abiodun)  
+  - [Precious Odutola](https://www.linkedin.com/in/precious-odutola)  
 - **Program:** AI Saturdays Lagos – Machine Learning Cohort
 
 ---
