@@ -78,7 +78,22 @@ Used to label buildings as *Low*, *Medium*, or *High* efficiency based on annual
 
 ---
 
-## 📌 How to Use the Code
+## 🛠️ How to Use the Code
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/Ernesto16/AISaturdaysLagos/C9-team-nwapa.git
+Navigate to the src/ folder and install dependencies:
+
+bash
+Copy code
+pip install -r requirements.txt
+Run the Streamlit app locally:
+
+bash
+Copy code
+streamlit run app.py
+
+## 📌 How to Use the Code / Alternatively
 ### Casual Users
 Access the deployed web app without any setup:  
 [🌐 Lagos Building Solar Energy Efficiency Predictor](https://huggingface.co/spaces/Precyors/Lagos-Building-Solar-Energy-Efficiency-Predictor)  
