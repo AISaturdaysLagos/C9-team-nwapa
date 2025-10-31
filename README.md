@@ -111,7 +111,7 @@ Access the deployed web app without any setup:
 📄 README.md
 
 ## 👥 Contributors
-- **Team Lead:** [Chitom Uzokwe](https://www.linkedin.com/in/chitom-uzokwe)  
+- **Team Lead:** [Chitom Uzokwe][(https://www.linkedin.com/in/chitom-uzokwe) ](https://www.linkedin.com/in/chitom-uzokwe-2a2973274/) 
 - **Team Members:** 
   - [Precious Ita](https://www.linkedin.com/in/precious-ita)  
   - [Joy Eromosele](https://www.linkedin.com/in/joy-eromosele)  
