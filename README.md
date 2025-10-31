@@ -26,7 +26,7 @@ This supports Nigeria’s broader sustainability efforts by promoting clean, ren
 - **Pandas**, **NumPy**
 - **Scikit-learn**
 - **Matplotlib**, **Seaborn**
-- **Streamlit** (for deployment)
+- **Huggingface** (for deployment)
 - **Jupyter / Google Colab** (for experimentation)
 
 ---
